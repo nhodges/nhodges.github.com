@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: General | Nuri Hodges]]></title>
+  <link href="http://nhodges.github.io/blog/categories/general/atom.xml" rel="self"/>
+  <link href="http://nhodges.github.io/"/>
+  <updated>2015-01-11T01:11:12+00:00</updated>
+  <id>http://nhodges.github.io/</id>
+  <author>
+    <name><![CDATA[Nuri Hodges]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Well, hello there.]]></title>
+    <link href="http://nhodges.github.io/blog/2013/05/15/well-hello-there/"/>
+    <updated>2013-05-15T20:57:00+00:00</updated>
+    <id>http://nhodges.github.io/blog/2013/05/15/well-hello-there</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s so nice to know that someone&rsquo;s interested in the umpteenth iteration of <a href="http://irunbackwards.com">irunbackwards.com</a> &mdash; a website which has always been an amalgam of my personal and professional interests.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Well, hello there.]]></title>
+    <link href="http://nhodges.github.io/blog/2013/05/15/well/"/>
+    <updated>2013-05-15T20:57:00+00:00</updated>
+    <id>http://nhodges.github.io/blog/2013/05/15/well</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s so nice to know that someone&rsquo;s interested in the umpteenth iteration of <a href="http://irunbackwards.com">irunbackwards.com</a> &mdash; a website which has always been an amalgam of my personal and professional interests.</p>
+]]></content>
+  </entry>
+  
+</feed>
